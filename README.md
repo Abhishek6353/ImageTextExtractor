@@ -1,4 +1,4 @@
-# TextSnap
+# ImageTextExtractor
 
 A simple iOS app that extracts text from images using Apple's Vision framework with a Photos-like interface.
 
